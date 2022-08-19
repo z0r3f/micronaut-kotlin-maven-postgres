@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, logback, maven, netty-server, postgres, readme, shade, test-resources, yaml]
